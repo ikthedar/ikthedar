@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### About Me
+### About Me 
 
 - 🔭 I’m currently working with Django, JavaScript, React and Node.js
 - 🌱 I’m currently learning Servers, TCP Connection
@@ -19,6 +19,3 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Contact Me
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white(linkedin.com/in/ikthedar/))
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
