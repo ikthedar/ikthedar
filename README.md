@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with Django, JavaScript, React and Node.js
 - 👯 Looking to collaborate on Django, React projects
-- 🌱 Currently learning different Server types, TCP Connection
+- 🌱 Currently learning different Server types, TCP Connection, Application architecture and scaling
 - 🤔 I love to write on Blog, Twitter, Quora
 - 💬 Ask me about web dev & history
 - 😄 Pronouns: he/his
