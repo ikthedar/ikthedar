@@ -3,7 +3,7 @@
 
 ### About Me 
 
-- 🔭 I’m currently working with Django, JavaScript, React and Node.js
+- 🔭 I’m a software developer and currently working with Django, JavaScript, React and Node.js
 - 👯 Looking to collaborate on Django, React projects
 - 🌱 Currently learning different Server types, TCP Connection, Application architecture and scaling app
 - 🤔 I love to write on Blog, Twitter, Quora
