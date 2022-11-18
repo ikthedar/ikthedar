@@ -9,7 +9,7 @@
 - 🤔 I love to write on Blog, Twitter, Quora
 - 💬 Ask me about web dev & history
 - 😄 Pronouns: he/his
-- ⚡ Interests: Listening songs, creating content, Arsenal fan, Football, Tennis
+- ⚡ Interests: Listening songs, creating content, Football, Arsenal, Tennis
 
 ### Tech Stack
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
