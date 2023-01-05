@@ -10,7 +10,7 @@
 - 💬 Ask me about web dev & history
 - 😄 Pronouns: he/his
 - ⚡ Interests: Listening songs, creating content, Football, Arsenal, Tennis
-- Next Target: DSA CRACK in January + February HiGH SCALE JOB GET
+- Next Target: DSA CRACK in January + February GET HiGH SCALE JOB
 
 ### Tech Stack
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
