@@ -10,7 +10,7 @@
 - 💬 Ask me about web dev & history
 - 😄 Pronouns: he/his
 - ⚡ Interests: Listening songs, creating content, Football, Arsenal, Tennis
-- Feb 23: Problem Solving
+-     Feb 23: Problem Solving
 
 ### Tech Stack
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
