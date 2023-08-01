@@ -9,7 +9,7 @@
 - 🤔 I love to write on Blog, Twitter, Quora
 - 💬 Ask me about web dev & history
 - 😄 Pronouns: he/his
-- ⚡ Interests: Listening songs, creating content, Football, Arsenal, Tennis
+- ⚡ Interests: Football, Arsenal, Tennis
 - Aiming to be a better full stack developer
 
 ### Tech Stack
