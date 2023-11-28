@@ -3,14 +3,13 @@
 
 ### About Me 
 
-- 🔭 I’m a software developer and currently working on web developement with Django, JavaScript, Node.js, PostgreSQL, MySQL
-- 👯 Looking to collaborate on Django, Python projects
-- 🌱 Currently learning React, different Server types, TCP Connection, Application architecture and scaling app
-- 🤔 I love to write on Blog, Twitter, Quora
-- 💬 Ask me about web dev & history
-- 😄 Pronouns: he/his
-- ⚡ Interests: Football, Arsenal, Tennis
-- Aiming to be a better full stack developer
+🔭 I’m a software developer, currently specializing in backend development, API integration, and optimizing database queries while addressing loan disbursement issues for the unbanked.
+👯 Looking to collaborate on more open source projects utilizing DRF, Docker, and RDBMS.
+🌱 Constantly learning through personal projects, exploring different server types, TCP connections, application architecture, and scaling applications.
+🤔 Passionate about writing on different technologies.
+💬 Feel free to ask me about software development and history.
+😄 Pronouns: he/his
+⚡ Interests: Football (especially Arsenal), Tennis, and Space.
 
 ### Tech Stack
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
