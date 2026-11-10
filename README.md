@@ -3,13 +3,13 @@
 
 ### About Me 
 
-- 🔭 I’m a software developer, currently specializing in backend development, API integration, and optimizing database queries while addressing loan disbursement issues for the unbanked.
-- 👯 Looking to collaborate on more open source projects utilizing DRF, Docker, and RDBMS.
-- 🌱 Constantly learning through personal projects, exploring different server types, TCP connections, application architecture, and scaling applications.
-- 🤔 Passionate about writing on different technologies.
-- 💬 Feel free to ask me about software development and history.
+- 🔭 I’m a software developer, specialized in backend development, API integration, and optimizing database queries while addressing improving cashflow and inventory velocity with intelligence.
+- 👯 Collaborating on open source projects utilizing RestAPI, Docker, and RDBMS, TypeScript, FastAPI.
+- 🌱 Constantly applying learnings through freelancing/personal projects, exploring different server types, TCP connections, application architecture, and scaling applications.
+- 🤔 Passionate about writing on different technologies that I am playing with.
+- 💬 Feel free to ask me about computer, language modeling, investment and history.
 - 😄 Pronouns: he/his
-- ⚡ Interests: Football (especially Arsenal), Tennis, and Space.
+- ⚡ Interests: Football - Arsenal, Tennis, Harry Potter, Cosmos, and GPU
 
 ### Tech Stack
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
